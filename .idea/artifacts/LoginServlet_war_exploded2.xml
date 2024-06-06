@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="LoginServlet:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/LoginServlet_war_exploded2</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="LoginServlet" />
+        </element>
+      </element>
+      <element id="library" level="project" name="Maven: javax.servlet:servlet-api:4.0.1" />
+      <element id="javaee-facet-resources" facet="LoginServlet/web/Web" />
+    </root>
+  </artifact>
+</component>
