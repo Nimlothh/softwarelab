@@ -1,4 +1,4 @@
-//这是B3分支
+//B3
 #include<iostream>
 using namespace std;
 int n;
